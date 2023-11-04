@@ -24,6 +24,6 @@ A large chunk of respondent didn´t provide salary information, this NA values w
 The Result is in my Medium post: https://medium.com/@guille.can87/how-about-happiness-and-salary-b4a46e2ffb45
 
 5. Licensing, Authors, Acknowledgements, etc.
-Data set obtained from https://www.kaggle.com/
+Data set obtained from [https://www.kaggle.com/](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
 Inspired by Josh Bernhar's analysis dhttps://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711
 Part of the Udacity Data Scientis NanoDegree program
